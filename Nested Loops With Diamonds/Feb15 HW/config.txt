@@ -1,0 +1,6 @@
+          5           2                   *                 -
+int //size
+int //number of logos
+char //first letter
+char //second letter 
+
