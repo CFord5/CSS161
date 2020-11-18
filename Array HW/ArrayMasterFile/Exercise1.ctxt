@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=input\ target
+comment1.target=boolean\ contains(int[],\ int)
+comment2.params=input\ target
+comment2.target=int\ indexOf(int[],\ int)
+comment3.params=input\ target
+comment3.target=int\ count(int[],\ int)
+comment4.params=input\ output
+comment4.target=void\ duplicates(int[],\ int[])
+numComments=5

@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=sc
+comment0.target=void\ setFirstScore(int)
+comment1.params=
+comment1.target=int\ getFirstScore()
+comment10.params=args
+comment10.target=void\ main(java.lang.String[])
+comment2.params=sc
+comment2.target=void\ setSecondScore(int)
+comment3.params=
+comment3.target=int\ getSecondScore()
+comment4.params=sc
+comment4.target=void\ setThirdScore(int)
+comment5.params=
+comment5.target=int\ getThirdScore()
+comment6.params=a\ b\ c
+comment6.target=int\ min(int,\ int,\ int)
+comment7.params=a\ b\ c
+comment7.target=int\ max(int,\ int,\ int)
+comment8.params=a\ b\ c
+comment8.target=int\ mid(int,\ int,\ int)
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=11
